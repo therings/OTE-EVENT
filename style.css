@@ -11,7 +11,7 @@
         background: url(Over_the_edge3.png);
         background-size:cover;
         background-repeat: no-repeat;
-        height: 202vh;
+        height: 212vh;
     }
     header .logo{
         width: 200px;
@@ -268,7 +268,7 @@ section
     bottom: -5px;
     left: -5px;
     z-index: -1;
-    background: linear-gradient(90deg, #e00f3c,#dd4362,#0911e8, #03acf4);
+    background: linear-gradient(90deg, #e00f3c,#dd4362,#4046ec, violet);
     background-size: 400%;
     border-radius: 40px;
     opacity: 0;
