@@ -297,10 +297,15 @@ section
 }
 .sec p
 {
-    font-size: 1em;
+    font-size: larger;
     color: white;
     text-align: center;
     padding: 20px 10px;
+}
+a:-webkit-any-link {
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+    text-decoration: underline;
 }
 html{
     scroll-behavior: smooth;
