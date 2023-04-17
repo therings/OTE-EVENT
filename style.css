@@ -11,7 +11,7 @@
         background: url(Over_the_edge3.png);
         background-size:cover;
         background-repeat: no-repeat;
-        height: 212vh;
+        height: 202vh;
     }
     header .logo{
         width: 200px;
@@ -291,11 +291,16 @@ section
     font-size: 3em;
     color: white;
     margin-bottom: 10px;
+    text-align: center;
+    border: solid 5px;
+    border-color: #fc5050 #f556ec #0000f0;
 }
 .sec p
 {
     font-size: 1em;
     color: white;
+    text-align: center;
+    padding: 20px 10px;
 }
 html{
     scroll-behavior: smooth;
