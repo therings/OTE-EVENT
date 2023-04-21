@@ -19,8 +19,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(110px);
+        font-size: 1em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -37,8 +38,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(110px);
+        font-size: 1em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -55,98 +57,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
-        top: auto;
-    }
-}
-@media only screen and (min-width: 373px) {
-    #section1 {
-        background: url(Over_the_edge3.png);
-        background-size:cover;
-        background-repeat: no-repeat;
-        background-position: center center;
-        height: 56vh;
-    }
-    header .logo{
-        width: 90px;
-        border-radius: 10px;
-    }
-    #btn{
-        font-size: 2em;
-        padding: 5px 10px;
-        top: auto;
-    }
-}
-@media only screen and (min-width: 390px) {
-    #section1 {
-        background: url(Over_the_edge3.png);
-        background-size:cover;
-        background-repeat: no-repeat;
-        background-position: center center;
-        height: 54vh;
-    }
-    header .logo{
-        width: 90px;
-        border-radius: 10px;
-    }
-    #btn{
-        font-size: 2em;
-        padding: 5px 10px;
-        top: auto;
-    }
-}
-@media only screen and (min-width: 400px) {
-    #section1 {
-        background: url(Over_the_edge3.png);
-        background-size:cover;
-        background-repeat: no-repeat;
-        background-position: center center;
-        height: 61vh;
-    }
-    header .logo{
-        width: 90px;
-        border-radius: 10px;
-    }
-    #btn{
-        font-size: 2em;
-        padding: 5px 10px;
-        top: auto;
-    }
-}
-@media only screen and (min-width: 414px) {
-    #section1 {
-        background: url(Over_the_edge3.png);
-        background-size:cover;
-        background-repeat: no-repeat;
-        background-position: center center;
-        height: 46vh;
-    }
-    header .logo{
-        width: 90px;
-        border-radius: 10px;
-    }
-    #btn{
-        font-size: 2em;
-        padding: 5px 10px;
-        top: auto;
-    }
-}
-@media only screen and (min-width: 375px) {
-    #section1 {
-        background: url(Over_the_edge3.png);
-        background-size:cover;
-        background-repeat: no-repeat;
-        background-position: center center;
-        height: 46vh;
-    }
-    header .logo{
-        width: 90px;
-        border-radius: 10px;
-    }
-    #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(110px);
+        font-size: 1em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -163,8 +76,161 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(110px);
+        font-size: 1.1em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 362px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 56vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(110px);
+        font-size: 1.1em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 375px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 56vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(110px);
+        font-size: 1.1em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 376px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 54vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(110px);
+        font-size: 1.1em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 390px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 46vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(120px);
+        font-size: 1.2em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 391px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 60vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(120px);
+        font-size: 1.2em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 393px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 46vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(120px);
+        font-size: 1.2em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 394px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 60vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(110px);
+        font-size: 1.2em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 400px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 61vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(120px);
+        font-size: 1.5em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -174,15 +240,35 @@
         background-size:cover;
         background-repeat: no-repeat;
         background-position: center center;
-        height: 45vh;
+        height: 46vh;
     }
     header .logo{
         width: 90px;
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(130px);
+        font-size: 1.5em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 415px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 63vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(120px);
+        font-size: 1.5em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -199,8 +285,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(140px);
+        font-size: 1.5em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -217,8 +304,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(155px);
+        font-size: 1.6em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -235,8 +323,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(170px);
+        font-size: 1.6em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -253,8 +342,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(190px);
+        font-size: 1.7em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -271,8 +361,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(200px);
+        font-size: 1.7em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -289,8 +380,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(210px);
+        font-size: 1.9em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -307,8 +399,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(220px);
+        font-size: 1.9em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -325,8 +418,28 @@
         border-radius: 10px;
     }
     #btn{
+        transform: translateY(220px);
+        font-size: 1.6em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 769px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 113vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(220px);
         font-size: 2em;
-        padding: 5px 10px;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -343,8 +456,9 @@
         border-radius: 10px;
     }
     #btn{
+        transform: translateY(230px);
         font-size: 2em;
-        padding: 5px 10px;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -361,8 +475,28 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2em;
-        padding: 5px 10px;
+        transform: translateY(230px);
+        font-size: 2.2em;
+        padding: 10px 20px;
+        top: auto;
+    }
+}
+@media only screen and (min-width: 821px) {
+    #section1 {
+        background: url(Over_the_edge3.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 120vh;
+    }
+    header .logo{
+        width: 90px;
+        border-radius: 10px;
+    }
+    #btn{
+        transform: translateY(240px);
+        font-size: 2.2em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -379,8 +513,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(250px);
+        font-size: 2.2em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -397,8 +532,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(270px);
+        font-size: 2.3em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -415,8 +551,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(290px);
+        font-size: 2.3em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -433,8 +570,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(310px);
+        font-size: 2.4em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -451,8 +589,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(330px);
+        font-size: 2.4em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -469,8 +608,9 @@
         border-radius: 10px;
     }
     #btn{
+        transform: translateY(350px);
         font-size: 2.5em;
-        padding: 5px 10px;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -487,8 +627,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(370px);
+        font-size: 2.6em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -505,8 +646,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(390px);
+        font-size: 2.6em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -523,8 +665,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(410px);
+        font-size: 2.7em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -541,8 +684,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(430px);
+        font-size: 2.7em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -559,8 +703,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(450px);
+        font-size: 2.8em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -577,8 +722,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(470px);
+        font-size: 2.8em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -595,8 +741,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(490px);
+        font-size: 2.9em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -613,8 +760,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(510px);
+        font-size: 2.9em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -631,8 +779,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(530px);
+        font-size: 2.9em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -649,8 +798,9 @@
         border-radius: 10px;
     }
     #btn{
-        font-size: 2.5em;
-        padding: 5px 10px;
+        transform: translateY(550px);
+        font-size: 3em;
+        padding: 10px 20px;
         top: auto;
     }
 }
@@ -732,7 +882,6 @@ section
     border: solid #ffd966 2px;
     color: #ffffff;
     z-index: 9;
-    transform: translateY(100px);
     position: absolute;
 }
 .btn1:hover {
